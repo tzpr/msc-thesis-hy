@@ -1,4 +1,3 @@
-
 #### Jatkuva integraatio ja mallien yhteistoiminta koneoppimissovelluksissa
 
 Tietojenkäsittelytieteen maisteritutkielma, Helsingin yliopisto 2020
