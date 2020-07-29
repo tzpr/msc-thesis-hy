@@ -1,6 +1,5 @@
-# msc-thesis-hy
 
-Jatkuva integraatio ja mallien yhteistoiminta koneoppimissovelluksissa
+#### Jatkuva integraatio ja mallien yhteistoiminta koneoppimissovelluksissa
 
 Tietojenkäsittelytieteen maisteritutkielma, Helsingin yliopisto 2020
 
